@@ -16,3 +16,5 @@
 
   [Adapter Delegates] (http://hannesdorfmann.com/android/adapter-delegates)
 
+* In Android Studio, dragging a folder with subfolders named xhdpi, xxhdpi, etc will automatically place images into the right folder.
+
