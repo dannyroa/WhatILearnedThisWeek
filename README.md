@@ -5,6 +5,8 @@
 * Look up Permissions using the APK:
 
     `aapt d badging file.apk | grep perm`
+
+* For CTL, you can run specific tests by passing `--test-targets`
     
     
     
