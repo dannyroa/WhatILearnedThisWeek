@@ -1,5 +1,9 @@
 # What I Learned This Week
 
+### April 6, 2016
+
+* drawable-nodpi is for drawable that you do not want to scale based on density like background images.
+
 ### March 7, 2016
 
 * Look up Permissions using the APK:
