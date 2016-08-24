@@ -1,5 +1,10 @@
 # What I Learned This Week
 
+### August 23, 2016
+
+* Remove a string resource on all configurations http://stackoverflow.com/a/32154575/112381
+
+
 ### April 6, 2016
 
 * drawable-nodpi is for drawable that you do not want to scale based on density like background images.
